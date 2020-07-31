@@ -1,2 +1,2 @@
 # toolbox
-Snippets for tweaking molecular data
+Snippets for working with phylogenomic data
